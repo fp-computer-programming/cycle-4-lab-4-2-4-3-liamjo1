@@ -39,3 +39,16 @@ print(first_half + " " + second_half)
 
 s1 = input("Enter string one:")
 s2 - input("Enter ")
+
+
+s1 = input("Enter string one:")
+s2 = input("Enter string two:")
+# get input for two strings - O'Hara
+if s1 > s2:
+    print(s1 + " is larger than " + s2)
+elif s1 < s2:
+    print(s2 + " is larger than " + s1)
+else:
+    print("Strings are the same")
+
+# Test if strings are greater than, lesser than, or equal to each other - O'Hara
