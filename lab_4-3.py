@@ -36,3 +36,6 @@ print(second_half)
 
 print(first_half + " " + second_half)
 # concatenate both and print with correct spacing - O'Hara
+
+s1 = input("Enter string one:")
+s2 - input("Enter ")
