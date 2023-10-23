@@ -19,3 +19,20 @@ provided by the user and return if the strings are equal, one string is greater 
 
 
 """
+# Liam O'Hara
+
+school = "Fairfield Prep"
+# create school variable - O'Hara
+
+first_half = school[0:9]
+# slice variable and store first half in its own variable - O'Hara
+
+second_half = school[10:14]
+# slice variable and store second half in its own variable - O'Hara
+
+print(first_half)
+print(second_half)
+# printing both halves on their own line - O'Hara
+
+print(first_half + " " + second_half)
+# concatenate both and print with correct spacing - O'Hara
